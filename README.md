@@ -13,7 +13,7 @@ This is a code repository for EQUEZ UI/UX Design Landing Page, which serves as a
 - React file and folder structure.
 - @syncfusion/ej2.
 - Fundamental CSS properties to master flex & grid.
-- Fundamentals of Tailwind CSSs.
+- Fundamentals of Tailwind CSS.
 - From soft and pleasant animations to complex gradients.
 - Perfectly placed media queries for satisfactory responsiveness covering almost all devices.
 - Finally deployed the website to extremely fast servers and give it a custom domain name.
