@@ -930,7 +930,7 @@ export const customersData = [
     Status: 'Active',
     StatusBg: '#8BE78B',
     Weeks: '40',
-    Budget: 'Є2.4k',
+    Budget: '€2.4k',
     Location: 'India',
   },
   {
@@ -945,7 +945,7 @@ export const customersData = [
 
     StatusBg: '#8BE78B',
     Weeks: '11',
-    Budget: 'Є3.9k',
+    Budget: '€3.9k',
     Location: 'India',
   },
   {
@@ -959,7 +959,7 @@ export const customersData = [
       avatar4,
     StatusBg: '#FEC90F',
     Weeks: '19',
-    Budget: 'Є24.5k',
+    Budget: '€24.5k',
     Location: 'USA',
   },
   {
@@ -973,7 +973,7 @@ export const customersData = [
       avatar,
     StatusBg: '#8BE78B',
     Weeks: '34',
-    Budget: 'Є16.5k',
+    Budget: '€16.5k',
     Location: 'USA',
   },
   {
@@ -987,7 +987,7 @@ export const customersData = [
       avatar2,
     StatusBg: 'red',
     Weeks: '34',
-    Budget: 'Є16.5k',
+    Budget: '€16.5k',
     Location: 'USA',
   },
   {
@@ -1000,7 +1000,7 @@ export const customersData = [
     Status: 'Active',
     StatusBg: '#8BE78B',
     Weeks: '40',
-    Budget: 'Є2.4k',
+    Budget: '€2.4k',
     Location: 'India',
   },
   {
@@ -1015,7 +1015,7 @@ export const customersData = [
 
     StatusBg: '#8BE78B',
     Weeks: '11',
-    Budget: 'Є3.9k',
+    Budget: '€3.9k',
     Location: 'India',
   },
   {
@@ -1029,7 +1029,7 @@ export const customersData = [
       avatar4,
     StatusBg: '#FEC90F',
     Weeks: '19',
-    Budget: 'Є24.5k',
+    Budget: '€24.5k',
     Location: 'USA',
   },
   {
@@ -1043,7 +1043,7 @@ export const customersData = [
       avatar,
     StatusBg: '#8BE78B',
     Weeks: '34',
-    Budget: 'Є16.5k',
+    Budget: '€16.5k',
     Location: 'USA',
   },
   {
@@ -1057,7 +1057,7 @@ export const customersData = [
       avatar2,
     StatusBg: 'red',
     Weeks: '34',
-    Budget: 'Є16.5k',
+    Budget: '€16.5k',
     Location: 'USA',
   },
   {
@@ -1070,7 +1070,7 @@ export const customersData = [
     Status: 'Active',
     StatusBg: '#8BE78B',
     Weeks: '40',
-    Budget: 'Є2.4k',
+    Budget: '€2.4k',
     Location: 'India',
   },
   {
@@ -1085,7 +1085,7 @@ export const customersData = [
 
     StatusBg: '#8BE78B',
     Weeks: '11',
-    Budget: 'Є3.9k',
+    Budget: '€3.9k',
     Location: 'India',
   },
   {
@@ -1099,7 +1099,7 @@ export const customersData = [
       avatar4,
     StatusBg: '#FEC90F',
     Weeks: '19',
-    Budget: 'Є24.5k',
+    Budget: '€24.5k',
     Location: 'USA',
   },
   {
@@ -1113,7 +1113,7 @@ export const customersData = [
       avatar,
     StatusBg: '#8BE78B',
     Weeks: '34',
-    Budget: 'Є16.5k',
+    Budget: '€16.5k',
     Location: 'USA',
   },
   {
@@ -1127,7 +1127,7 @@ export const customersData = [
       avatar2,
     StatusBg: 'red',
     Weeks: '34',
-    Budget: 'Є16.5k',
+    Budget: '€16.5k',
     Location: 'USA',
   },
   {
@@ -1140,7 +1140,7 @@ export const customersData = [
     Status: 'Active',
     StatusBg: '#8BE78B',
     Weeks: '40',
-    Budget: 'Є2.4k',
+    Budget: '€2.4k',
     Location: 'India',
   },
   {
@@ -1155,7 +1155,7 @@ export const customersData = [
 
     StatusBg: '#8BE78B',
     Weeks: '11',
-    Budget: 'Є3.9k',
+    Budget: '€3.9k',
     Location: 'India',
   },
   {
@@ -1169,7 +1169,7 @@ export const customersData = [
       avatar4,
     StatusBg: '#FEC90F',
     Weeks: '19',
-    Budget: 'Є24.5k',
+    Budget: '€24.5k',
     Location: 'USA',
   },
   {
@@ -1183,7 +1183,7 @@ export const customersData = [
       avatar,
     StatusBg: '#8BE78B',
     Weeks: '34',
-    Budget: 'Є16.5k',
+    Budget: '€16.5k',
     Location: 'USA',
   },
   {
@@ -1197,7 +1197,7 @@ export const customersData = [
       avatar2,
     StatusBg: 'red',
     Weeks: '34',
-    Budget: 'Є16.5k',
+    Budget: '€16.5k',
     Location: 'USA',
   },
   {
@@ -1210,7 +1210,7 @@ export const customersData = [
     Status: 'Active',
     StatusBg: '#8BE78B',
     Weeks: '40',
-    Budget: 'Є2.4k',
+    Budget: '€2.4k',
     Location: 'India',
   },
   {
@@ -1225,7 +1225,7 @@ export const customersData = [
 
     StatusBg: '#8BE78B',
     Weeks: '11',
-    Budget: 'Є3.9k',
+    Budget: '€3.9k',
     Location: 'India',
   },
   {
@@ -1239,7 +1239,7 @@ export const customersData = [
       avatar4,
     StatusBg: '#FEC90F',
     Weeks: '19',
-    Budget: 'Є24.5k',
+    Budget: '€24.5k',
     Location: 'USA',
   },
   {
@@ -1253,7 +1253,7 @@ export const customersData = [
       avatar,
     StatusBg: '#8BE78B',
     Weeks: '34',
-    Budget: 'Є16.5k',
+    Budget: '€16.5k',
     Location: 'USA',
   },
   {
@@ -1267,7 +1267,7 @@ export const customersData = [
       avatar2,
     StatusBg: 'red',
     Weeks: '34',
-    Budget: 'Є16.5k',
+    Budget: '€16.5k',
     Location: 'USA',
   },
   {
@@ -1280,7 +1280,7 @@ export const customersData = [
     Status: 'Active',
     StatusBg: '#8BE78B',
     Weeks: '40',
-    Budget: 'Є2.4k',
+    Budget: '€2.4k',
     Location: 'India',
   },
   {
@@ -1295,7 +1295,7 @@ export const customersData = [
 
     StatusBg: '#8BE78B',
     Weeks: '11',
-    Budget: 'Є3.9k',
+    Budget: '€3.9k',
     Location: 'India',
   },
   {
@@ -1309,7 +1309,7 @@ export const customersData = [
       avatar4,
     StatusBg: '#FEC90F',
     Weeks: '19',
-    Budget: 'Є24.5k',
+    Budget: '€24.5k',
     Location: 'USA',
   },
   {
@@ -1323,7 +1323,7 @@ export const customersData = [
       avatar,
     StatusBg: '#8BE78B',
     Weeks: '34',
-    Budget: 'Є16.5k',
+    Budget: '€16.5k',
     Location: 'USA',
   },
   {
@@ -1337,7 +1337,7 @@ export const customersData = [
       avatar2,
     StatusBg: 'red',
     Weeks: '34',
-    Budget: 'Є16.5k',
+    Budget: '€16.5k',
     Location: 'USA',
   },
   {
@@ -1350,7 +1350,7 @@ export const customersData = [
     Status: 'Active',
     StatusBg: '#8BE78B',
     Weeks: '40',
-    Budget: 'Є2.4k',
+    Budget: '€2.4k',
     Location: 'India',
   },
   {
@@ -1365,7 +1365,7 @@ export const customersData = [
 
     StatusBg: '#8BE78B',
     Weeks: '11',
-    Budget: 'Є3.9k',
+    Budget: '€3.9k',
     Location: 'India',
   },
   {
@@ -1379,7 +1379,7 @@ export const customersData = [
       avatar4,
     StatusBg: '#FEC90F',
     Weeks: '19',
-    Budget: 'Є24.5k',
+    Budget: '€24.5k',
     Location: 'USA',
   },
   {
@@ -1393,7 +1393,7 @@ export const customersData = [
       avatar,
     StatusBg: '#8BE78B',
     Weeks: '34',
-    Budget: 'Є16.5k',
+    Budget: '€16.5k',
     Location: 'USA',
   },
   {
@@ -1407,7 +1407,7 @@ export const customersData = [
       avatar2,
     StatusBg: 'red',
     Weeks: '34',
-    Budget: 'Є16.5k',
+    Budget: '€16.5k',
     Location: 'USA',
   },
   {
@@ -1420,7 +1420,7 @@ export const customersData = [
     Status: 'Active',
     StatusBg: '#8BE78B',
     Weeks: '40',
-    Budget: 'Є2.4k',
+    Budget: '€2.4k',
     Location: 'India',
   },
   {
@@ -1435,7 +1435,7 @@ export const customersData = [
 
     StatusBg: '#8BE78B',
     Weeks: '11',
-    Budget: 'Є3.9k',
+    Budget: '€3.9k',
     Location: 'India',
   },
   {
@@ -1449,7 +1449,7 @@ export const customersData = [
       avatar4,
     StatusBg: '#FEC90F',
     Weeks: '19',
-    Budget: 'Є24.5k',
+    Budget: '€24.5k',
     Location: 'USA',
   },
   {
@@ -1462,7 +1462,7 @@ export const customersData = [
       avatar,
     StatusBg: '#8BE78B',
     Weeks: '34',
-    Budget: 'Є16.5k',
+    Budget: '€16.5k',
     Location: 'USA',
   },
   {
@@ -1475,7 +1475,7 @@ export const customersData = [
       avatar2,
     StatusBg: 'red',
     Weeks: '34',
-    Budget: 'Є16.5k',
+    Budget: '€16.5k',
     Location: 'USA',
   },
 
