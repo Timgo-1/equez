@@ -3,9 +3,11 @@
 ![Modern UI/UX EQUEZ](https://i.ibb.co/Btsy3XP/EQUEZ.png)
 
 ## Stay up to date with new projects
+
 New major projects coming soon.
 
 ## Introduction
+
 This is a code repository for EQUEZ UI/UX Design Landing Page, which serves as a React Admin Dashboard App With Theming, Tables, Charts, Calendar, Kanban and More.
   The prerequisites for building such an amazing website includes:
 

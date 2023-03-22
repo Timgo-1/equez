@@ -656,7 +656,7 @@ export const earningData = [
 export const recentTransactions = [
   {
     icon: <BsCurrencyEuro />,
-    amount: '+Є350',
+    amount: '+€350',
     title: 'Paypal Transfer',
     desc: 'Money Added',
     iconColor: '#03C9D7',
@@ -665,7 +665,7 @@ export const recentTransactions = [
   },
   {
     icon: <BsShield />,
-    amount: '-Є560',
+    amount: '-€560',
     desc: 'Bill Payment',
     title: 'Wallet',
     iconColor: 'rgb(0, 194, 146)',
@@ -674,7 +674,7 @@ export const recentTransactions = [
   },
   {
     icon: <FiCreditCard />,
-    amount: '+Є350',
+    amount: '+€350',
     title: 'Credit Card',
     desc: 'Money reversed',
     iconColor: 'rgb(255, 244, 229)',
@@ -684,7 +684,7 @@ export const recentTransactions = [
   },
   {
     icon: <TiTick />,
-    amount: '+Є350',
+    amount: '+€350',
     title: 'Bank Transfer',
     desc: 'Money Added',
 
@@ -694,7 +694,7 @@ export const recentTransactions = [
   },
   {
     icon: <BsCurrencyEuro />,
-    amount: '-Є50',
+    amount: '-€50',
     percentage: '+38%',
     title: 'Refund',
     desc: 'Payment Sent',
